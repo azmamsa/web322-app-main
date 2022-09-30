@@ -1,0 +1,19 @@
+body{
+   
+    background-color: rgba(102, 237, 158, 0.266)
+    
+}
+
+h2{
+    font-size: 40px;
+}
+
+title{
+    font-size: 50px;
+}
+
+.navbar{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
